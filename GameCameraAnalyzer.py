@@ -1,3 +1,7 @@
+# @author Tanner Cabaniss
+# @email <tanner.l.cabaniss-1@ou.edu>
+# @version 1.2
+
 import os.path, time
 import os, sys
 import tkinter as tk
